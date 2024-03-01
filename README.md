@@ -18,7 +18,7 @@
 <p>To use the Automated Task Scheduler, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your_username/automated-task-scheduler.git</code></pre>
+    <pre><code>git clone https://github.com/udithanuwanw/Automated-Task-Scheduler.git</code></pre>
     <li>Compile the source code:</li>
     <pre><code>g++ main.cpp -o task_scheduler</code></pre>
     <li>Run the application:</li>
